@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=To-n-y)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **To-n-y/To-n-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
