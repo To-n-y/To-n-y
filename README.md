@@ -1,18 +1,36 @@
-### Hi there 👋
+<p align="center">Hello, I'm Vitaliy👋</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=To-n-y)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
-<!--
-**To-n-y/To-n-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a  BackEnd developer
 
-Here are some ideas to get you started:
+**About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- BSU FAMCS student
+
+- ❤️ Like writing Python and building fun experiments 
+
+
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" alt="flask" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>    
+
+
+| <a href="https://github.com/To-n-y/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=To-n-y&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vitali's github stats" /></a> | <a href="https://github.com/To-n-y/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=To-n-y&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/To-n-y/todo-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=To-n-y&repo=todo-api&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://t.me/T_No_y">
+  <img align="right" alt="Vitaliy | Telegram" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />
+</a>
