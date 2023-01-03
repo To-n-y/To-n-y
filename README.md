@@ -20,9 +20,7 @@ I'm a  BackEnd developer
 <code><img height="20" alt="django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> 
 <code><img height="20" alt="postgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code> 
 
-
-| <a href="https://github.com/To-n-y/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=To-n-y&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vitali's github stats" /></a> | <a href="https://github.com/To-n-y/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=To-n-y&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=To-n-y&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=To-n-y)](https://github.com/To-n-y/github-profile-trophy)
 
@@ -30,7 +28,7 @@ I'm a  BackEnd developer
 
 
 <a href="https://github.com/To-n-y/todo-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=To-n-y&repo=todo-api&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=To-n-y&repo=todo-api&theme=buefy" />qwerty
 </a>
 <a href="https://github.com/To-n-y/shop-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=To-n-y&repo=shop-api&theme=buefy" />
