@@ -28,10 +28,10 @@ I'm a  BackEnd developer
 
 
 <a href="https://github.com/To-n-y/todo-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=To-n-y&repo=todo-api&theme=buefy" />qwerty
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=To-n-y&repo=todo-api" />
 </a>
 <a href="https://github.com/To-n-y/shop-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=To-n-y&repo=shop-api&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=To-n-y&repo=shop-api" />
 </a>
 
 <br />
