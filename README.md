@@ -24,7 +24,7 @@ I'm a  BackEnd developer
 | <a href="https://github.com/To-n-y/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=To-n-y&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vitali's github stats" /></a> | <a href="https://github.com/To-n-y/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=To-n-y&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=To-n-y)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=To-n-y)](https://github.com/To-n-y/github-profile-trophy)
 
 #### Top Repositories
 
