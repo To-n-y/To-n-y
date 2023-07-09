@@ -2,15 +2,13 @@
 
 <br />
 
-I'm a  BackEnd developer
+- 💻 Core Stack: **Python**. Mainly focused on Backend.
 
 - 📫 How to reach me **realvitl@yandex.ru**
 
 **About me**
 
 - BSU FAMCS student
-
-- ❤️ Like writing Python and building fun experiments 
 
 
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
